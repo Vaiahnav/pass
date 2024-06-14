@@ -1,6 +1,8 @@
 This project is a Java Console Application to generate random passwords and perform password strength checks.
 
-Functionalities
+** FUNCTIONSLITIES :
+
+
 1. Generating a Password: 
  
 User Input:
